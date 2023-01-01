@@ -1,6 +1,6 @@
 # VBA-Stock-Analyzer
 
-Stock-Analyzer is a Virtual Basic Application (VBA) project which analyzes generated stock market data. 
+Stock-Analyzer is a Visual Basic Application (VBA) project which analyzes generated stock market data. 
 
 This Stock-Analyzer Virtual Basic Scripting file loops through one year of stock data, reads and stores all the appropriate values from each row. The application creates columns for each stock, including the ticker symbol, yearly change ($), percent change, and the total volume of stock. Conditional formatting is applied to the yearly change and percent change columns, to visualize positive change highlighting in green and negative change highlighting in red. 
 
