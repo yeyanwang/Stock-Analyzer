@@ -6,4 +6,4 @@ This Stock-Analyzer Virtual Basic Scripting file loops through one year of stock
 
 This application also returns the stock symbol and value with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume" of that year (within the worksheet). 
 
-This application is enabled in every worksheet in the workbook at once, giving the outputs listed above. After all outputs are generated, auto-fit function is applied to cells on each sheet to resize cells and display all data properly.
+This application is enabled in every worksheet in the workbook at once. After all outputs are generated, auto-fit function is applied to cells on each sheet to resize cells and display all data properly.
